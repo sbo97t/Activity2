@@ -15,7 +15,9 @@
 -list
 ---
 ```
-print("Hello World")
+
+for i in range(3):
+  print(i)
 
 ```
 #### Table of Contents
