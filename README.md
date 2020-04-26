@@ -20,7 +20,8 @@ for i in range(3):
   print(i)
 
 ```
+ The raw data for this project is in this [folder](https://github.com/sbo97t/Activity2/tree/master/data)
+
 > FinTech FinTech everywhere
-
-
+---
 ![](https://github.com/sbo97t/Activity2/blob/master/image.jpg)
