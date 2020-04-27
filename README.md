@@ -1,35 +1,8 @@
-# Activity2
-## This is an example of how a markdown file works
-### Below is bold text
+# Wealth Management and Distributed Ledger Technology
 ---
-**Below this is italiciaed text**
----
-*below is a blcokquote*
----
-1. an 
-2. ordered
-3. list
----
-- an
--unordered
--list
----
-```
+## Overview and Origin
 
-for i in range(3):
-  print(i)
-
-```
- The raw data for this project is in this [folder](https://github.com/sbo97t/Activity2/tree/master/data)
-
-> FinTech FinTech everywhere
----
-![](https://github.com/sbo97t/Activity2/blob/master/image.jpg)
-
-- l1
-    - l2
-       - l3
-- l1
----
-- l2
-   
+Symbiont is a  New York City developer of a blockchain platform named Assembly.  
+Founded in 2015 by Mark Smith, Adam Krellenstein, Evan Wagner, and Robby Dermody, 
+Symbiont included initial investors Duncan Niederauer former CEO of NYSE and co-head of Citadel Mark Anderson.  
+The company raised $20 Million in January 2019 in a Series B round.
